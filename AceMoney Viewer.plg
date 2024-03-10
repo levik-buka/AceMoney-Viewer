@@ -1,0 +1,40 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: AceMoney Viewer - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x40b /fo"Release/AceMoney Viewer.res" /d "NDEBUG" /d "_AFXDLL" "F:\Omat projektit\AceMoney Viewer\AceMoney Viewer.rc"" 
+Creating temporary file "C:\DOCUME~1\Levik\LOCALS~1\Temp\RSPCC.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Release/AceMoney Viewer.pdb" /machine:I386 /out:"Release/AceMoney Viewer.exe" 
+".\Release\10YearsView.obj"
+".\Release\AceMoney Viewer.obj"
+".\Release\GraphView.obj"
+".\Release\HalfYearView.obj"
+".\Release\MainFrm.obj"
+".\Release\MonthView.obj"
+".\Release\QuartalView.obj"
+".\Release\SeasonView.obj"
+".\Release\StdAfx.obj"
+".\Release\ViewerChartView.obj"
+".\Release\ViewerDoc.obj"
+".\Release\ViewerMenuView.obj"
+".\Release\WeekView.obj"
+".\Release\YearView.obj"
+".\Release\AceMoney Viewer.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\Levik\LOCALS~1\Temp\RSPCC.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+AceMoney Viewer.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

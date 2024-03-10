@@ -1,0 +1,26 @@
+ 
+// Commands (ID_* and IDM_*) 
+HID_NEXT_PERIOD                         0x18004
+HID_PREV_PERIOD                         0x18005
+HID_PREV_VIEW                           0x18006
+HID_NEXT_VIEW                           0x18007
+HID_INCOMING_SUM                        0x18008
+HID_OUTCOMING_SUM                       0x18009
+HID_INCOMES_GRAPH                       0x1800B
+HID_BUTTON32780                         0x1800C
+HID_EXPENSES_GRAPH                      0x1800D
+ 
+// Prompts (IDP_*) 
+ 
+// Resources (IDR_*) 
+HIDR_VIEWERCHARTVIEW_TMPL               0x2006E
+HIDR_VIEWERMENUVIEW_TMPL                0x20070
+HIDR_MAINFRAME                          0x20080
+HIDR_ACEMONTYPE                         0x20081
+ 
+// Dialogs (IDD_*) 
+HIDD_ABOUTBOX                           0x20064
+HIDD_VIEWERCHARTVIEW_FORM               0x2006D
+HIDD_VIEWERMENUVIEW_FORM                0x2006F
+ 
+// Frame Controls (IDW_*) 
